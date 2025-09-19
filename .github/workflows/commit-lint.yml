@@ -1,0 +1,67 @@
+name: corevia-commit-lint
+on:
+  workflow_call: {}
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  pr-title:
+    name: PR title is conventional
+    runs-on: ubuntu-latest
+    steps:
+      - uses: amannn/action-semantic-pull-request@v5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # Tune allowed types if you want a stricter set
+          types: |
+            feat
+            fix
+            docs
+            style
+            refactor
+            perf
+            test
+            build
+            ci
+            chore
+            revert
+
+  commit-messages:
+    name: Commits are conventional
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch PR commits
+        if: ${{ github.event_name == 'pull_request' || github.event_name == 'pull_request_target' }}
+        uses: actions/github-script@v7
+        id: commits
+        with:
+          script: |
+            const { data } = await github.rest.pulls.listCommits({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.payload.pull_request.number,
+              per_page: 250
+            });
+            // Map to the *first line* of each commit message (title)
+            const messages = data.map(c => c.commit.message.split('\n')[0]);
+            core.setOutput('messages', JSON.stringify(messages));
+
+      - name: Write messages to file
+        run: |
+          mkdir -p .commitlint
+          node -e "const fs=require('fs'); fs.writeFileSync('.commitlint/messages.txt', JSON.parse(process.env.MESSAGES).join('\n'))"
+        env:
+          MESSAGES: ${{ steps.commits.outputs.messages }}
+
+      - name: Run commitlint on messages
+        run: |
+          npm init -y >/dev/null 2>&1
+          npm pkg set type="module" >/dev/null 2>&1
+          npm i --save-dev @commitlint/config-conventional @commitlint/cli >/dev/null 2>&1
+          cat > commitlint.config.js <<'EOF'
+          export default { extends: ['@commitlint/config-conventional'] };
+          EOF
+          npx commitlint --config commitlint.config.js < .commitlint/messages.txt
