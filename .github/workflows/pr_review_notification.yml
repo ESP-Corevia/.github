@@ -1,0 +1,107 @@
+name: Discord PR Notifications
+on:
+    workflow_call: {}
+
+jobs:
+    notify-discord:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout shared workflow repo
+              uses: actions/checkout@v4
+              with:
+                  repository: ESP-Corevia/.github
+                  path: shared
+
+            - name: Get PR Author and Actor Discord IDs
+              id: get_discord_ids
+              env:
+                  MAP_JSON: ${{ secrets.DISCORD_ID_MAP_JSON }}
+              run: |
+                  PR_AUTHOR="${{ github.event.pull_request.user.login }}"
+                  if [ "${{ github.event_name }}" = "pull_request_review" ]; then
+                    ACTOR="${{ github.event.review.user.login }}"
+                  else
+                    ACTOR="${{ github.actor }}"
+                  fi
+                  if [ -z "${MAP_JSON:-}" ]; then
+                    echo "⚠️ Secret DISCORD_ID_MAP_JSON manquant" >&2
+                    AUTHOR_DISCORD_ID=""; ACTOR_DISCORD_ID=""
+                  else
+                    if ! command -v jq >/dev/null 2>&1; then sudo apt-get update -y && sudo apt-get install -y jq; fi
+                    AUTHOR_DISCORD_ID=$(printf '%s' "$MAP_JSON" | jq -r --arg gh "$PR_AUTHOR" '.github_to_discord[$gh] // empty')
+                    ACTOR_DISCORD_ID=$(printf '%s' "$MAP_JSON" | jq -r --arg gh "$ACTOR" '.github_to_discord[$gh] // empty')
+                  fi
+                  if [ -n "$AUTHOR_DISCORD_ID" ]; then
+                    echo "author_discord_id=$AUTHOR_DISCORD_ID" >> $GITHUB_OUTPUT
+                    echo "author_mention=<@$AUTHOR_DISCORD_ID>" >> $GITHUB_OUTPUT
+                    echo "author_found=true" >> $GITHUB_OUTPUT
+                  else
+                    echo "author_discord_id=" >> $GITHUB_OUTPUT
+                    echo "author_mention=**@$PR_AUTHOR**" >> $GITHUB_OUTPUT
+                    echo "author_found=false" >> $GITHUB_OUTPUT
+                  fi
+                  if [ -n "$ACTOR_DISCORD_ID" ]; then
+                    echo "actor_discord_id=$ACTOR_DISCORD_ID" >> $GITHUB_OUTPUT
+                    echo "actor_mention=<@$ACTOR_DISCORD_ID>" >> $GITHUB_OUTPUT
+                    echo "actor_found=true" >> $GITHUB_OUTPUT
+                  else
+                    echo "actor_discord_id=" >> $GITHUB_OUTPUT
+                    echo "actor_mention=**@$ACTOR**" >> $GITHUB_OUTPUT
+                    echo "actor_found=false" >> $GITHUB_OUTPUT
+                  fi
+                  echo "actor_login=$ACTOR" >> $GITHUB_OUTPUT
+
+            - name: Determine event status
+              id: event_status
+              run: |
+                  EVENT_NAME="${{ github.event_name }}"
+                  if [ "$EVENT_NAME" = "pull_request_review" ]; then
+                    REVIEW_STATE="${{ github.event.review.state }}"
+                    case "$REVIEW_STATE" in
+                      approved)           echo "status=approved"           >> $GITHUB_OUTPUT; echo "actor_avatar=${{ github.event.review.user.avatar_url }}" >> $GITHUB_OUTPUT;;
+                      changes_requested)  echo "status=changes_requested"  >> $GITHUB_OUTPUT; echo "actor_avatar=${{ github.event.review.user.avatar_url }}" >> $GITHUB_OUTPUT;;
+                      commented)          echo "status=commented"          >> $GITHUB_OUTPUT; echo "actor_avatar=${{ github.event.review.user.avatar_url }}" >> $GITHUB_OUTPUT;;
+                      *)                  echo "status=unknown"            >> $GITHUB_OUTPUT;;
+                    esac
+                  else
+                    ACTION="${{ github.event.action }}"
+                    case "$ACTION" in
+                      opened)             echo "status=opened"             >> $GITHUB_OUTPUT; echo "actor_avatar=${{ github.event.pull_request.user.avatar_url }}" >> $GITHUB_OUTPUT;;
+                      closed)
+                        if [ "${{ github.event.pull_request.merged }}" = "true" ]; then
+                          echo "status=merged" >> $GITHUB_OUTPUT; echo "actor_avatar=${{ github.actor_avatar_url }}" >> $GITHUB_OUTPUT
+                        else
+                          echo "status=closed" >> $GITHUB_OUTPUT; echo "actor_avatar=${{ github.actor_avatar_url }}" >> $GITHUB_OUTPUT
+                        fi
+                        ;;
+                      ready_for_review)   echo "status=ready_for_review"   >> $GITHUB_OUTPUT; echo "actor_avatar=${{ github.actor_avatar_url }}" >> $GITHUB_OUTPUT;;
+                      converted_to_draft) echo "status=draft"              >> $GITHUB_OUTPUT; echo "actor_avatar=${{ github.actor_avatar_url }}" >> $GITHUB_OUTPUT;;
+                      reopened)           echo "status=reopened"           >> $GITHUB_OUTPUT; echo "actor_avatar=${{ github.actor_avatar_url }}" >> $GITHUB_OUTPUT;;
+                      *)                  echo "status=unknown"            >> $GITHUB_OUTPUT;;
+                    esac
+                  fi
+
+            - name: Send Discord notification
+              if: steps.event_status.outputs.status != 'unknown'
+              env:
+                  WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+                  GIPHY_API_KEY: ${{ secrets.GIPHY_API_KEY }}
+                  STATUS: ${{ steps.event_status.outputs.status }}
+                  TARGET_DISCORD_ID: ${{ steps.get_discord_ids.outputs.author_discord_id }}
+                  AUTHOR_MENTION: ${{ steps.get_discord_ids.outputs.author_mention }}
+                  AUTHOR_FOUND: ${{ steps.get_discord_ids.outputs.author_found }}
+                  ACTOR_MENTION: ${{ steps.get_discord_ids.outputs.actor_mention }}
+                  ACTOR_FOUND: ${{ steps.get_discord_ids.outputs.actor_found }}
+                  PR_TITLE: ${{ github.event.pull_request.title }}
+                  PR_URL: ${{ github.event.pull_request.html_url }}
+                  PR_NUMBER: ${{ github.event.pull_request.number }}
+                  REPO_FULL_NAME: ${{ github.repository }}
+                  REPO_URL: ${{ github.event.repository.html_url }}
+                  PR_AUTHOR_LOGIN: ${{ github.event.pull_request.user.login }}
+                  PR_AUTHOR_AVATAR: ${{ github.event.pull_request.user.avatar_url }}
+                  ACTOR_LOGIN: ${{ steps.get_discord_ids.outputs.actor_login }}
+                  ACTOR_AVATAR: ${{ steps.event_status.outputs.actor_avatar }}
+                  DESCRIPTION: ${{ github.event.pull_request.body }}
+              run: |
+                  chmod +x shared/scripts/notify_pr_discord.sh
+                  shared/scripts/notify_pr_discord.sh
