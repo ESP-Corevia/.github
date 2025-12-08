@@ -1,9 +1,9 @@
 name: Update README with Latest Activity
 
 on:
-    schedule:
+    #schedule:
         # Runs every 6 hours
-        - cron: "0 */6 * * *"
+        #- cron: "0 */6 * * *"
     workflow_dispatch:
     push:
         branches:
