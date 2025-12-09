@@ -31,15 +31,6 @@
 
   <br/>
 
-  <p>
-    <a href="#-flagship-projects">🚀 Explore Projects</a> •
-    <a href="#-how-to-contribute">🤝 Contribute</a> •
-    <a href="#%EF%B8%8F-our-tech-stack">🛠️ Tech Stack</a> •
-    <a href="#-organization-activity">📈 Activity</a>
-  </p>
-
-  <br/>
-
   <hr/>
 
 </div>
@@ -96,6 +87,11 @@
         </a>
       </p>
       <p>
+        ⭐ Stars: <!-- COREAPP_STARS -->0<!-- /COREAPP_STARS --> ·
+        👥 Contributors: <!-- COREAPP_CONTRIB -->0<!-- /COREAPP_CONTRIB --><br/>
+        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->No recent commits<!-- /COREAPP_LAST_COMMIT -->
+      </p>
+      <p>
         <img src="https://img.shields.io/badge/-Active-success?style=flat-square" alt="Active" />
       </p>
     </td>
@@ -108,6 +104,11 @@
         </a>
       </p>
       <p>
+        ⭐ Stars: <!-- MOBILE_STARS -->0<!-- /MOBILE_STARS --> ·
+        👥 Contributors: <!-- MOBILE_CONTRIB -->0<!-- /MOBILE_CONTRIB --><br/>
+        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->No recent commits<!-- /MOBILE_LAST_COMMIT -->
+      </p>
+      <p>
         <img src="https://img.shields.io/badge/-In_Progress-yellow?style=flat-square" alt="In Progress" />
       </p>
     </td>
@@ -118,6 +119,11 @@
         <a href="https://github.com/ESP-Corevia/rag-communication-service">
           <img src="https://img.shields.io/badge/-RAG_Service-E0234E?style=flat-square&logo=nestjs" alt="RAG Service" />
         </a>
+      </p>
+      <p>
+        ⭐ Stars: <!-- RAG_STARS -->0<!-- /RAG_STARS --> ·
+        👥 Contributors: <!-- RAG_CONTRIB -->0<!-- /RAG_CONTRIB --><br/>
+        📝 Latest Commit: <!-- RAG_LAST_COMMIT -->No recent commits<!-- /RAG_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Stable-blue?style=flat-square" alt="Stable" />
@@ -149,10 +155,13 @@
 
 </details>
 
-| 📌 Activity     | Link                                                                       |
-| --------------- | -------------------------------------------------------------------------- |
-| 🐛 Latest Issue | <!-- COREAPP_LATEST_ISSUE -->[#32 - [FEATURE]  Add a landing page](https://github.com/ESP-Corevia/CoreApp/issues/32)<!-- /COREAPP_LATEST_ISSUE --> |
-| 🔧 Latest PR    | <!-- COREAPP_LATEST_PR -->[#35 - feat: add new app home for the landing page](https://github.com/ESP-Corevia/CoreApp/pull/35)<!-- /COREAPP_LATEST_PR -->          |
+| Metric               | Value                                                                  |
+| -------------------- | ---------------------------------------------------------------------- |
+| 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
+| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->0<!-- /COREAPP_LAST_OPEN_PR -->           |
+| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->0<!-- /COREAPP_LAST_CLOSED_PR -->       |
+| 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->0<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
+| 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->0<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
 
 <p>
   <a href="https://github.com/ESP-Corevia/CoreApp">
@@ -181,10 +190,13 @@
 
 </details>
 
-| 📌 Activity     | Link                                                                     |
-| --------------- | ------------------------------------------------------------------------ |
-| 🐛 Latest Issue | <!-- MOBILE_LATEST_ISSUE -->[#45 - [FEATURE]  Fix Calendar and Account page](https://github.com/ESP-Corevia/corevia_mobile/issues/45)<!-- /MOBILE_LATEST_ISSUE --> |
-| 📊 Open Issues  | <!-- MOBILE_OPEN_ISSUES -->**11**<!-- /MOBILE_OPEN_ISSUES -->             |
+| Metric               | Value                                                                |
+| -------------------- | -------------------------------------------------------------------- |
+| 📝 Latest Commit     | <!-- MOBILE_LAST_COMMIT -->0<!-- /MOBILE_LAST_COMMIT -->             |
+| 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->0<!-- /MOBILE_LAST_OPEN_PR -->           |
+| 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->0<!-- /MOBILE_LAST_CLOSED_PR -->       |
+| 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->0<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
+| 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->0<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
 
 <p>
   <a href="https://github.com/ESP-Corevia/corevia_mobile">
@@ -244,8 +256,8 @@
 
 </details>
 
-| 📌 Activity     | Link                                                               |
-| --------------- | ------------------------------------------------------------------ |
+| 📌 Activity     | Link                                                                                                                   |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | 🐛 Latest Issue | <!-- DOC_LATEST_ISSUE -->[#3 - CRAv 1 & 2](https://github.com/ESP-Corevia/Document/issues/3)<!-- /DOC_LATEST_ISSUE --> |
 
 <p>
@@ -363,36 +375,17 @@
 
 </div>
 
-### 👥 Top Contributors
+---
 
-<div align="center">
+## 📊 Stats Overview
 
-<table>
-  <tr>
-    <th>CoreApp</th>
-    <th>corevia_mobile</th>
-    <th>rag-communication-service</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ESP-Corevia/CoreApp/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=ESP-Corevia/CoreApp&max=8&columns=4" alt="CoreApp Contributors" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ESP-Corevia/corevia_mobile/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=ESP-Corevia/corevia_mobile&max=8&columns=4" alt="corevia_mobile Contributors" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ESP-Corevia/rag-communication-service/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=ESP-Corevia/rag-communication-service&max=8&columns=4" alt="RAG Service Contributors" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+| Metric                 | Value                                      |
+| ---------------------- | ------------------------------------------ |
+| 📦 Total Repositories  | 6                                          |
+| ⭐ Total Stars         | <!-- TOTAL_STARS -->0<!-- /TOTAL_STARS --> |
+| 🏥 Healthcare Focus    | Medical AI, Emergency Detection            |
+| 🌍 Platforms Supported | Web, iOS, Android, Linux, macOS, Windows   |
+| 🔒 Compliance          | GDPR Ready                                 |
 
 ---
 
@@ -407,71 +400,52 @@ graph LR
     C --> D[🍴 Fork & Code]
     D --> E[🔀 Open PR]
     E --> F[✅ Get Merged!]
+
 ```
 
 </div>
-
 ### Quick Start
 
-1. **🔍 Browse** our [repositories](https://github.com/orgs/ESP-Corevia/repositories)
-2. **📖 Read** the project's README and contribution guidelines
-3. **🐛 Find** an issue labeled `good first issue` or `help wanted`
-4. **🍴 Fork** the repository and create your branch
-5. **💻 Code** your changes following our style guides
-6. **🔀 Submit** a pull request with a clear description
+1.  **🔍 Browse** our [repositories](https://github.com/orgs/ESP-Corevia/repositories)
+2.  **📖 Read** the project's README and contribution guidelines
+3.  **🐛 Find** an issue labeled `good first issue` or `help wanted`
+4.  **🍴 Fork** the repository and create your branch
+5.  **💻 Code** your changes following our style guides
+6.  **🔀 Submit** a pull request with a clear description
 
 ### Good First Issues
 
-| Repo           | Issues                                                                                                                                                                                                                                                                 |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CoreApp        | [![Good First Issues](https://img.shields.io/github/issues/ESP-Corevia/CoreApp/good%20first%20issue?style=flat-square&label=good%20first%20issues)](https://github.com/ESP-Corevia/CoreApp/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)               |
-| corevia_mobile | [![Good First Issues](https://img.shields.io/github/issues/ESP-Corevia/corevia_mobile/good%20first%20issue?style=flat-square&label=good%20first%20issues)](https://github.com/ESP-Corevia/corevia_mobile/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) |
+Repo
+
+Issues
+
+CoreApp
+
+[![Good First Issues](https://img.shields.io/github/issues/ESP-Corevia/CoreApp/good%20first%20issue?style=flat-square&label=good%20first%20issues)](https://github.com/ESP-Corevia/CoreApp/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
+corevia_mobile
+
+[![Good First Issues](https://img.shields.io/github/issues/ESP-Corevia/corevia_mobile/good%20first%20issue?style=flat-square&label=good%20first%20issues)](https://github.com/ESP-Corevia/corevia_mobile/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 ---
 
 ## ⚙️ Configuration Repository
 
-<details>
-<summary>📂 .github — Organization Settings</summary>
-
 This repository contains organization-level GitHub configurations, workflows, and this profile README.
 
-![Stars](https://img.shields.io/github/stars/ESP-Corevia/.github?style=flat-square&color=yellow)
+![Stars](https://img.shields.io/github/stars/ESP-Corevia/.github?style=flat-square&color=yellow)  
 ![Forks](https://img.shields.io/github/forks/ESP-Corevia/.github?style=flat-square)
 
 [![View Config](https://img.shields.io/badge/View-.github-181717?style=flat-square&logo=github)](https://github.com/ESP-Corevia/.github)
 
-</details>
-
 ---
-
-## 📊 Stats Overview
-
-| Metric                 | Value                                    |
-| ---------------------- | ---------------------------------------- |
-| 📦 Total Repositories  | 6                                        |
-| 🏥 Healthcare Focus    | Medical AI, Emergency Detection          |
-| 🌍 Platforms Supported | Web, iOS, Android, Linux, macOS, Windows |
-| 🔒 Compliance          | GDPR Ready                               |
-
----
-
-<div align="center">
 
 ### 💬 Connect With Us
 
-<a href="https://github.com/ESP-Corevia">
-  <img src="https://img.shields.io/badge/GitHub-ESP--Corevia-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-
 ---
-
-<img src="https://raw.githubusercontent.com/ESP-Corevia/.github/master/.github/assets/logo.png" alt="ESP-Corevia" width="60" />
 
 **Made with ❤️ by the ESP-Corevia Team**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 This README is automatically updated every 6 hours via GitHub Actions</sub>
-
-</div>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2025-12-09<!-- /LAST_UPDATED_FOOTER --></sub>
