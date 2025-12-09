@@ -363,43 +363,6 @@
 
 </div>
 
-<!-- ### 📉 Activity Graphs
-
-> 🔁 Replace the `REPLACE_WITH_...` tokens below with actual Repobeats embed URLs from https://repobeats.axiom.co
-
-<details>
-<summary>📈 CoreApp Activity</summary>
-
-<div align="center">
-
-![CoreApp Activity](https://repobeats.axiom.co/api/embed/REPLACE_WITH_COREAPP_TOKEN.svg "CoreApp Analytics")
-
-</div>
-
-</details>
-
-<details>
-<summary>📱 corevia_mobile Activity</summary>
-
-<div align="center">
-
-![corevia_mobile Activity](https://repobeats.axiom.co/api/embed/REPLACE_WITH_MOBILE_TOKEN.svg "corevia_mobile Analytics")
-
-</div>
-
-</details>
-
-<details>
-<summary>🧠 RAG Service Activity</summary>
-
-<div align="center">
-
-![RAG Service Activity](https://repobeats.axiom.co/api/embed/REPLACE_WITH_RAG_TOKEN.svg "RAG Service Analytics")
-
-</div>
-
-</details> -->
-
 ### 👥 Top Contributors
 
 <div align="center">
