@@ -1,8 +1,8 @@
 name: Update README with Latest Activity
 
 on:
-  # schedule:
-  #   - cron: "0 */6 * * *"
+  schedule:
+    - cron: "0 14 * * 5"
   workflow_dispatch:
   push:
     branches:
@@ -42,5 +42,5 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "🤖 Auto-update README with latest activity [skip ci]"
-            git push
+            git push origin HEAD:master
           fi

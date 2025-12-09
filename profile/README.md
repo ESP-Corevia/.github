@@ -87,9 +87,9 @@
         </a>
       </p>
       <p>
-        ⭐ Stars: <!-- COREAPP_STARS -->0<!-- /COREAPP_STARS --> ·
-        👥 Contributors: <!-- COREAPP_CONTRIB -->0<!-- /COREAPP_CONTRIB --><br/>
-        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->No recent commits<!-- /COREAPP_LAST_COMMIT -->
+        ⭐ Stars: <!-- COREAPP_STARS -->1<!-- /COREAPP_STARS --> ·
+        👥 Contributors: <!-- COREAPP_CONTRIB -->2<!-- /COREAPP_CONTRIB --><br/>
+        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->feat(admin): add sessions management (#34) — 2025-12-06<!-- /COREAPP_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Active-success?style=flat-square" alt="Active" />
@@ -105,8 +105,8 @@
       </p>
       <p>
         ⭐ Stars: <!-- MOBILE_STARS -->0<!-- /MOBILE_STARS --> ·
-        👥 Contributors: <!-- MOBILE_CONTRIB -->0<!-- /MOBILE_CONTRIB --><br/>
-        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->No recent commits<!-- /MOBILE_LAST_COMMIT -->
+        👥 Contributors: <!-- MOBILE_CONTRIB -->4<!-- /MOBILE_CONTRIB --><br/>
+        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->feat: add Flutter Analyze badge to README (#48) — 2025-12-06<!-- /MOBILE_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-In_Progress-yellow?style=flat-square" alt="In Progress" />
@@ -122,8 +122,8 @@
       </p>
       <p>
         ⭐ Stars: <!-- RAG_STARS -->0<!-- /RAG_STARS --> ·
-        👥 Contributors: <!-- RAG_CONTRIB -->0<!-- /RAG_CONTRIB --><br/>
-        📝 Latest Commit: <!-- RAG_LAST_COMMIT -->No recent commits<!-- /RAG_LAST_COMMIT -->
+        👥 Contributors: <!-- RAG_CONTRIB -->1<!-- /RAG_CONTRIB --><br/>
+        📝 Latest Commit: <!-- RAG_LAST_COMMIT -->Merge pull request #1 from ESP-Corevia/feat/aws-deploy — 2025-12-04<!-- /RAG_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Stable-blue?style=flat-square" alt="Stable" />
@@ -158,10 +158,10 @@
 | Metric               | Value                                                                  |
 | -------------------- | ---------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->0<!-- /COREAPP_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->0<!-- /COREAPP_LAST_CLOSED_PR -->       |
-| 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->0<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
-| 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->0<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
+| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#33 - feat: chatbot army](https://github.com/ESP-Corevia/CoreApp/pull/33)<!-- /COREAPP_LAST_OPEN_PR -->           |
+| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#35 - feat: add new app home for the landing page](https://github.com/ESP-Corevia/CoreApp/pull/35)<!-- /COREAPP_LAST_CLOSED_PR -->       |
+| 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#32 - [FEATURE]  Add a landing page](https://github.com/ESP-Corevia/CoreApp/issues/32)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
+| 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->[#30 - [FEATURE]  ListMySessions](https://github.com/ESP-Corevia/CoreApp/issues/30)<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
 
 <p>
   <a href="https://github.com/ESP-Corevia/CoreApp">
@@ -194,9 +194,9 @@
 | -------------------- | -------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- MOBILE_LAST_COMMIT -->0<!-- /MOBILE_LAST_COMMIT -->             |
 | 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->0<!-- /MOBILE_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->0<!-- /MOBILE_LAST_CLOSED_PR -->       |
-| 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->0<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
-| 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->0<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
+| 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#48 - feat: add Flutter Analyze badge to README](https://github.com/ESP-Corevia/corevia_mobile/pull/48)<!-- /MOBILE_LAST_CLOSED_PR -->       |
+| 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->[#43 - [FEATURE]  Fix Calendar and account page](https://github.com/ESP-Corevia/corevia_mobile/issues/43)<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
+| 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->[#45 - [FEATURE]  Fix Calendar and Account page](https://github.com/ESP-Corevia/corevia_mobile/issues/45)<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
 
 <p>
   <a href="https://github.com/ESP-Corevia/corevia_mobile">
@@ -382,7 +382,7 @@
 | Metric                 | Value                                      |
 | ---------------------- | ------------------------------------------ |
 | 📦 Total Repositories  | 6                                          |
-| ⭐ Total Stars         | <!-- TOTAL_STARS -->0<!-- /TOTAL_STARS --> |
+| ⭐ Total Stars         | <!-- TOTAL_STARS -->1<!-- /TOTAL_STARS --> |
 | 🏥 Healthcare Focus    | Medical AI, Emergency Detection            |
 | 🌍 Platforms Supported | Web, iOS, Android, Linux, macOS, Windows   |
 | 🔒 Compliance          | GDPR Ready                                 |
@@ -404,6 +404,7 @@ graph LR
 ```
 
 </div>
+
 ### Quick Start
 
 1.  **🔍 Browse** our [repositories](https://github.com/orgs/ESP-Corevia/repositories)
