@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2025-12-07 -->
+<!-- LAST_UPDATED:2025-12-09 -->
 
 <div align="center">
 
@@ -151,8 +151,8 @@
 
 | 📌 Activity     | Link                                                                       |
 | --------------- | -------------------------------------------------------------------------- |
-| 🐛 Latest Issue | <!-- COREAPP_LATEST_ISSUE -->_No issues yet_<!-- /COREAPP_LATEST_ISSUE --> |
-| 🔧 Latest PR    | <!-- COREAPP_LATEST_PR -->_No PRs yet_<!-- /COREAPP_LATEST_PR -->          |
+| 🐛 Latest Issue | <!-- COREAPP_LATEST_ISSUE -->[#32 - [FEATURE]  Add a landing page](https://github.com/ESP-Corevia/CoreApp/issues/32)<!-- /COREAPP_LATEST_ISSUE --> |
+| 🔧 Latest PR    | <!-- COREAPP_LATEST_PR -->[#35 - feat: add new app home for the landing page](https://github.com/ESP-Corevia/CoreApp/pull/35)<!-- /COREAPP_LATEST_PR -->          |
 
 <p>
   <a href="https://github.com/ESP-Corevia/CoreApp">
@@ -183,8 +183,8 @@
 
 | 📌 Activity     | Link                                                                     |
 | --------------- | ------------------------------------------------------------------------ |
-| 🐛 Latest Issue | <!-- MOBILE_LATEST_ISSUE -->_No issues yet_<!-- /MOBILE_LATEST_ISSUE --> |
-| 📊 Open Issues  | <!-- MOBILE_OPEN_ISSUES -->**0**<!-- /MOBILE_OPEN_ISSUES -->             |
+| 🐛 Latest Issue | <!-- MOBILE_LATEST_ISSUE -->[#45 - [FEATURE]  Fix Calendar and Account page](https://github.com/ESP-Corevia/corevia_mobile/issues/45)<!-- /MOBILE_LATEST_ISSUE --> |
+| 📊 Open Issues  | <!-- MOBILE_OPEN_ISSUES -->**11**<!-- /MOBILE_OPEN_ISSUES -->             |
 
 <p>
   <a href="https://github.com/ESP-Corevia/corevia_mobile">
@@ -246,7 +246,7 @@
 
 | 📌 Activity     | Link                                                               |
 | --------------- | ------------------------------------------------------------------ |
-| 🐛 Latest Issue | <!-- DOC_LATEST_ISSUE -->_No issues yet_<!-- /DOC_LATEST_ISSUE --> |
+| 🐛 Latest Issue | <!-- DOC_LATEST_ISSUE -->[#3 - CRAv 1 & 2](https://github.com/ESP-Corevia/Document/issues/3)<!-- /DOC_LATEST_ISSUE --> |
 
 <p>
   <a href="https://github.com/ESP-Corevia/Document">
