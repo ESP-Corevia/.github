@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2025-12-12 -->
+<!-- LAST_UPDATED:2025-12-19 -->
 
 <div align="center">
 
@@ -89,7 +89,7 @@
       <p>
         ⭐ Stars: <!-- COREAPP_STARS -->1<!-- /COREAPP_STARS --> ·
         👥 Contributors: <!-- COREAPP_CONTRIB -->2<!-- /COREAPP_CONTRIB --><br/>
-        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->ci: fix retag and delete manifest (#39) — 2025-12-12<!-- /COREAPP_LAST_COMMIT -->
+        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->ci: add check:all in ci — 2025-12-12<!-- /COREAPP_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Active-success?style=flat-square" alt="Active" />
@@ -106,7 +106,7 @@
       <p>
         ⭐ Stars: <!-- MOBILE_STARS -->0<!-- /MOBILE_STARS --> ·
         👥 Contributors: <!-- MOBILE_CONTRIB -->4<!-- /MOBILE_CONTRIB --><br/>
-        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->ci: add .env and workflow dispatch (#51) — 2025-12-11<!-- /MOBILE_LAST_COMMIT -->
+        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->feat: implement onboarding screen and update routing logic (#53) — 2025-12-12<!-- /MOBILE_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-In_Progress-yellow?style=flat-square" alt="In Progress" />
@@ -159,7 +159,7 @@
 | -------------------- | ---------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
 | 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#33 - feat: chatbot army](https://github.com/ESP-Corevia/CoreApp/pull/33)<!-- /COREAPP_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#39 - ci: fix retag and delete manifest](https://github.com/ESP-Corevia/CoreApp/pull/39)<!-- /COREAPP_LAST_CLOSED_PR -->       |
+| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#40 - fix: broken build](https://github.com/ESP-Corevia/CoreApp/pull/40)<!-- /COREAPP_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#32 - [FEATURE]  Add a landing page](https://github.com/ESP-Corevia/CoreApp/issues/32)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->[#30 - [FEATURE]  ListMySessions](https://github.com/ESP-Corevia/CoreApp/issues/30)<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
 
@@ -193,10 +193,10 @@
 | Metric               | Value                                                                |
 | -------------------- | -------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- MOBILE_LAST_COMMIT -->0<!-- /MOBILE_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->[#53 - feat: implement onboarding screen and update routing logic](https://github.com/ESP-Corevia/corevia_mobile/pull/53)<!-- /MOBILE_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#51 - ci: add .env and workflow dispatch](https://github.com/ESP-Corevia/corevia_mobile/pull/51)<!-- /MOBILE_LAST_CLOSED_PR -->       |
-| 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->[#52 - [FEATURE]  change onboarding screen](https://github.com/ESP-Corevia/corevia_mobile/issues/52)<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
-| 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->[#45 - [FEATURE]  Fix Calendar and Account page](https://github.com/ESP-Corevia/corevia_mobile/issues/45)<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
+| 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->0<!-- /MOBILE_LAST_OPEN_PR -->           |
+| 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#53 - feat: implement onboarding screen and update routing logic](https://github.com/ESP-Corevia/corevia_mobile/pull/53)<!-- /MOBILE_LAST_CLOSED_PR -->       |
+| 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->[#50 - [FEATURE]  Add different AI](https://github.com/ESP-Corevia/corevia_mobile/issues/50)<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
+| 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->[#52 - [FEATURE]  change onboarding screen](https://github.com/ESP-Corevia/corevia_mobile/issues/52)<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
 
 <p>
   <a href="https://github.com/ESP-Corevia/corevia_mobile">
@@ -449,4 +449,4 @@ This repository contains organization-level GitHub configurations, workflows, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2025-12-12<!-- /LAST_UPDATED_FOOTER --></sub>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2025-12-19<!-- /LAST_UPDATED_FOOTER --></sub>
