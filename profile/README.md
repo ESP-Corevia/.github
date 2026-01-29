@@ -88,8 +88,8 @@
       </p>
       <p>
         ⭐ Stars: <!-- COREAPP_STARS -->1<!-- /COREAPP_STARS --> ·
-        👥 Contributors: <!-- COREAPP_CONTRIB -->3<!-- /COREAPP_CONTRIB --><br/>
-        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->chore: release master (#61) — 2026-01-29<!-- /COREAPP_LAST_COMMIT -->
+        👥 Contributors: <!-- COREAPP_CONTRIB -->4<!-- /COREAPP_CONTRIB --><br/>
+        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->chore(deps): update actions/cache action to v5 (#65) — 2026-01-29<!-- /COREAPP_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Active-success?style=flat-square" alt="Active" />
@@ -158,10 +158,10 @@
 | Metric               | Value                                                                  |
 | -------------------- | ---------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#33 - feat: chatbot army](https://github.com/ESP-Corevia/CoreApp/pull/33)<!-- /COREAPP_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#61 - chore: release master](https://github.com/ESP-Corevia/CoreApp/pull/61)<!-- /COREAPP_LAST_CLOSED_PR -->       |
+| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#66 - chore(deps): update tanstack](https://github.com/ESP-Corevia/CoreApp/pull/66)<!-- /COREAPP_LAST_OPEN_PR -->           |
+| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#65 - chore(deps): update actions/cache action to v5](https://github.com/ESP-Corevia/CoreApp/pull/65)<!-- /COREAPP_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#62 - Dependency Dashboard](https://github.com/ESP-Corevia/CoreApp/issues/62)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
-| 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->[#43 - [FEATURE] add release notes](https://github.com/ESP-Corevia/CoreApp/issues/43)<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
+| 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->0<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
 
 <p>
   <a href="https://github.com/ESP-Corevia/CoreApp">
