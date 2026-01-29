@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2026-01-23 -->
+<!-- LAST_UPDATED:2026-01-29 -->
 
 <div align="center">
 
@@ -89,7 +89,7 @@
       <p>
         ⭐ Stars: <!-- COREAPP_STARS -->1<!-- /COREAPP_STARS --> ·
         👥 Contributors: <!-- COREAPP_CONTRIB -->3<!-- /COREAPP_CONTRIB --><br/>
-        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->chore: release master (#59) — 2026-01-23<!-- /COREAPP_LAST_COMMIT -->
+        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->chore: release master (#61) — 2026-01-29<!-- /COREAPP_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Active-success?style=flat-square" alt="Active" />
@@ -159,8 +159,8 @@
 | -------------------- | ---------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
 | 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#33 - feat: chatbot army](https://github.com/ESP-Corevia/CoreApp/pull/33)<!-- /COREAPP_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#59 - chore: release master](https://github.com/ESP-Corevia/CoreApp/pull/59)<!-- /COREAPP_LAST_CLOSED_PR -->       |
-| 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#32 - [FEATURE]  Add a landing page](https://github.com/ESP-Corevia/CoreApp/issues/32)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
+| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#61 - chore: release master](https://github.com/ESP-Corevia/CoreApp/pull/61)<!-- /COREAPP_LAST_CLOSED_PR -->       |
+| 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#62 - Dependency Dashboard](https://github.com/ESP-Corevia/CoreApp/issues/62)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->[#43 - [FEATURE] add release notes](https://github.com/ESP-Corevia/CoreApp/issues/43)<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
 
 <p>
@@ -195,7 +195,7 @@
 | 📝 Latest Commit     | <!-- MOBILE_LAST_COMMIT -->0<!-- /MOBILE_LAST_COMMIT -->             |
 | 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->[#96 - feat: create thr reservation process](https://github.com/ESP-Corevia/corevia_mobile/pull/96)<!-- /MOBILE_LAST_OPEN_PR -->           |
 | 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#53 - feat: implement onboarding screen and update routing logic](https://github.com/ESP-Corevia/corevia_mobile/pull/53)<!-- /MOBILE_LAST_CLOSED_PR -->       |
-| 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->[#94 - [FEATURE]  Pouvoir ajouter des documents sur l'application](https://github.com/ESP-Corevia/corevia_mobile/issues/94)<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
+| 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->[#97 - [FEATURE]  Add disconnect button on account page](https://github.com/ESP-Corevia/corevia_mobile/issues/97)<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->[#56 - [FEATURE]  Écran de reset de mot de passe](https://github.com/ESP-Corevia/corevia_mobile/issues/56)<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
 
 <p>
@@ -449,4 +449,4 @@ This repository contains organization-level GitHub configurations, workflows, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-01-23<!-- /LAST_UPDATED_FOOTER --></sub>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-01-29<!-- /LAST_UPDATED_FOOTER --></sub>
