@@ -88,7 +88,7 @@
       </p>
       <p>
         ⭐ Stars: <!-- COREAPP_STARS -->1<!-- /COREAPP_STARS --> ·
-        👥 Contributors: <!-- COREAPP_CONTRIB -->4<!-- /COREAPP_CONTRIB --><br/>
+        👥 Contributors: <!-- COREAPP_CONTRIB -->3<!-- /COREAPP_CONTRIB --><br/>
         📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->chore(deps): update actions/cache action to v5 (#65) — 2026-01-29<!-- /COREAPP_LAST_COMMIT -->
       </p>
       <p>
