@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2026-01-30 -->
+<!-- LAST_UPDATED:2026-02-06 -->
 
 <div align="center">
 
@@ -106,7 +106,7 @@
       <p>
         ⭐ Stars: <!-- MOBILE_STARS -->0<!-- /MOBILE_STARS --> ·
         👥 Contributors: <!-- MOBILE_CONTRIB -->4<!-- /MOBILE_CONTRIB --><br/>
-        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->feat: add different ai (#61) — 2026-01-30<!-- /MOBILE_LAST_COMMIT -->
+        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->feat: create thr reservation process (#96) — 2026-01-30<!-- /MOBILE_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-In_Progress-yellow?style=flat-square" alt="In Progress" />
@@ -160,7 +160,7 @@
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
 | 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#75 - chore: release master](https://github.com/ESP-Corevia/CoreApp/pull/75)<!-- /COREAPP_LAST_OPEN_PR -->           |
 | 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#74 - chore: release master](https://github.com/ESP-Corevia/CoreApp/pull/74)<!-- /COREAPP_LAST_CLOSED_PR -->       |
-| 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#62 - Dependency Dashboard](https://github.com/ESP-Corevia/CoreApp/issues/62)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
+| 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#76 - [FEATURE]  Improve workflow for front, back-office and back](https://github.com/ESP-Corevia/CoreApp/issues/76)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->0<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
 
 <p>
@@ -193,10 +193,10 @@
 | Metric               | Value                                                                |
 | -------------------- | -------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- MOBILE_LAST_COMMIT -->0<!-- /MOBILE_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->[#96 - feat: create thr reservation process](https://github.com/ESP-Corevia/corevia_mobile/pull/96)<!-- /MOBILE_LAST_OPEN_PR -->           |
+| 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->0<!-- /MOBILE_LAST_OPEN_PR -->           |
 | 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#98 - feat: add login and register. middleware doesn't work](https://github.com/ESP-Corevia/corevia_mobile/pull/98)<!-- /MOBILE_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->[#97 - [FEATURE]  Add disconnect button on account page](https://github.com/ESP-Corevia/corevia_mobile/issues/97)<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
-| 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->[#56 - [FEATURE]  Écran de reset de mot de passe](https://github.com/ESP-Corevia/corevia_mobile/issues/56)<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
+| 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->[#81 - [FEATURE]  Processus de réservation d'un créneau de médecin en ui](https://github.com/ESP-Corevia/corevia_mobile/issues/81)<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
 
 <p>
   <a href="https://github.com/ESP-Corevia/corevia_mobile">
@@ -449,4 +449,4 @@ This repository contains organization-level GitHub configurations, workflows, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-01-30<!-- /LAST_UPDATED_FOOTER --></sub>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-02-06<!-- /LAST_UPDATED_FOOTER --></sub>
