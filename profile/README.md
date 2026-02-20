@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2026-02-13 -->
+<!-- LAST_UPDATED:2026-02-20 -->
 
 <div align="center">
 
@@ -89,7 +89,7 @@
       <p>
         ⭐ Stars: <!-- COREAPP_STARS -->1<!-- /COREAPP_STARS --> ·
         👥 Contributors: <!-- COREAPP_CONTRIB -->4<!-- /COREAPP_CONTRIB --><br/>
-        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->chore(deps): update css lint (stylelint) (#77) — 2026-02-06<!-- /COREAPP_LAST_COMMIT -->
+        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->feat: upgrade Node.js to 24.13.1 and add home deployment workflow (#79) — 2026-02-13<!-- /COREAPP_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Active-success?style=flat-square" alt="Active" />
@@ -106,7 +106,7 @@
       <p>
         ⭐ Stars: <!-- MOBILE_STARS -->0<!-- /MOBILE_STARS --> ·
         👥 Contributors: <!-- MOBILE_CONTRIB -->4<!-- /MOBILE_CONTRIB --><br/>
-        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->fix: correction de la logique d'onboarding et sauvegarde des préférences (#100) — 2026-02-13<!-- /MOBILE_LAST_COMMIT -->
+        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->feat: add authentication validation rules (#105) — 2026-02-13<!-- /MOBILE_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-In_Progress-yellow?style=flat-square" alt="In Progress" />
@@ -158,8 +158,8 @@
 | Metric               | Value                                                                  |
 | -------------------- | ---------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#78 - chore: release master](https://github.com/ESP-Corevia/CoreApp/pull/78)<!-- /COREAPP_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#77 - chore(deps): update css lint (stylelint)](https://github.com/ESP-Corevia/CoreApp/pull/77)<!-- /COREAPP_LAST_CLOSED_PR -->       |
+| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#33 - feat: chatbot army](https://github.com/ESP-Corevia/CoreApp/pull/33)<!-- /COREAPP_LAST_OPEN_PR -->           |
+| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#79 - feat: upgrade Node.js to 24.13.1 and add home deployment workflow](https://github.com/ESP-Corevia/CoreApp/pull/79)<!-- /COREAPP_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#76 - [FEATURE]  Improve workflow for front, back-office and back](https://github.com/ESP-Corevia/CoreApp/issues/76)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->0<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
 
@@ -194,9 +194,9 @@
 | -------------------- | -------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- MOBILE_LAST_COMMIT -->0<!-- /MOBILE_LAST_COMMIT -->             |
 | 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->0<!-- /MOBILE_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#101 - feat: add disconnect button on account page](https://github.com/ESP-Corevia/corevia_mobile/pull/101)<!-- /MOBILE_LAST_CLOSED_PR -->       |
+| 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#105 - feat: add authentication validation rules](https://github.com/ESP-Corevia/corevia_mobile/pull/105)<!-- /MOBILE_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->[#94 - [FEATURE]  Pouvoir ajouter des documents sur l'application](https://github.com/ESP-Corevia/corevia_mobile/issues/94)<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
-| 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->[#99 - [BUG]  fix redirection onboarding](https://github.com/ESP-Corevia/corevia_mobile/issues/99)<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
+| 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->[#102 - [BUG]  fix redirection onboarding](https://github.com/ESP-Corevia/corevia_mobile/issues/102)<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
 
 <p>
   <a href="https://github.com/ESP-Corevia/corevia_mobile">
@@ -449,4 +449,4 @@ This repository contains organization-level GitHub configurations, workflows, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-02-13<!-- /LAST_UPDATED_FOOTER --></sub>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-02-20<!-- /LAST_UPDATED_FOOTER --></sub>
