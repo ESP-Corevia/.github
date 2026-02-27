@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2026-02-20 -->
+<!-- LAST_UPDATED:2026-02-27 -->
 
 <div align="center">
 
@@ -160,8 +160,8 @@
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
 | 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#33 - feat: chatbot army](https://github.com/ESP-Corevia/CoreApp/pull/33)<!-- /COREAPP_LAST_OPEN_PR -->           |
 | 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#79 - feat: upgrade Node.js to 24.13.1 and add home deployment workflow](https://github.com/ESP-Corevia/CoreApp/pull/79)<!-- /COREAPP_LAST_CLOSED_PR -->       |
-| 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#76 - [FEATURE]  Improve workflow for front, back-office and back](https://github.com/ESP-Corevia/CoreApp/issues/76)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
-| 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->0<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
+| 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#62 - Dependency Dashboard](https://github.com/ESP-Corevia/CoreApp/issues/62)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
+| 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->[#76 - [FEATURE]  Improve workflow for front, back-office and back](https://github.com/ESP-Corevia/CoreApp/issues/76)<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
 
 <p>
   <a href="https://github.com/ESP-Corevia/CoreApp">
@@ -449,4 +449,4 @@ This repository contains organization-level GitHub configurations, workflows, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-02-20<!-- /LAST_UPDATED_FOOTER --></sub>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-02-27<!-- /LAST_UPDATED_FOOTER --></sub>
