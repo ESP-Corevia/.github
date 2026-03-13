@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2026-03-06 -->
+<!-- LAST_UPDATED:2026-03-13 -->
 
 <div align="center">
 
@@ -89,7 +89,7 @@
       <p>
         ⭐ Stars: <!-- COREAPP_STARS -->1<!-- /COREAPP_STARS --> ·
         👥 Contributors: <!-- COREAPP_CONTRIB -->4<!-- /COREAPP_CONTRIB --><br/>
-        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->Revert "Revert "feat: implement availability service and repository for docto…" (#90) — 2026-03-06<!-- /COREAPP_LAST_COMMIT -->
+        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->feat: add appointment (#100) — 2026-03-12<!-- /COREAPP_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Active-success?style=flat-square" alt="Active" />
@@ -106,7 +106,7 @@
       <p>
         ⭐ Stars: <!-- MOBILE_STARS -->0<!-- /MOBILE_STARS --> ·
         👥 Contributors: <!-- MOBILE_CONTRIB -->4<!-- /MOBILE_CONTRIB --><br/>
-        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->feat: add authentication validation rules (#107) — 2026-03-05<!-- /MOBILE_LAST_COMMIT -->
+        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->feat: Add API Routes Guide documentation (#108) — 2026-03-12<!-- /MOBILE_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-In_Progress-yellow?style=flat-square" alt="In Progress" />
@@ -158,8 +158,8 @@
 | Metric               | Value                                                                  |
 | -------------------- | ---------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#87 - chore: release master](https://github.com/ESP-Corevia/CoreApp/pull/87)<!-- /COREAPP_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#90 - Revert "Revert "feat: implement availability service and repository for doctor appointment slots""](https://github.com/ESP-Corevia/CoreApp/pull/90)<!-- /COREAPP_LAST_CLOSED_PR -->       |
+| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#80 - feat(web): add ai metrics dashboard and mock admin api [KAN-25]](https://github.com/ESP-Corevia/CoreApp/pull/80)<!-- /COREAPP_LAST_OPEN_PR -->           |
+| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#100 - feat: add appointment](https://github.com/ESP-Corevia/CoreApp/pull/100)<!-- /COREAPP_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#62 - Dependency Dashboard](https://github.com/ESP-Corevia/CoreApp/issues/62)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->[#85 - [FEATURE] Add CORS from back-office to api](https://github.com/ESP-Corevia/CoreApp/issues/85)<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
 
@@ -194,7 +194,7 @@
 | -------------------- | -------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- MOBILE_LAST_COMMIT -->0<!-- /MOBILE_LAST_COMMIT -->             |
 | 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->0<!-- /MOBILE_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#107 - feat: add authentication validation rules](https://github.com/ESP-Corevia/corevia_mobile/pull/107)<!-- /MOBILE_LAST_CLOSED_PR -->       |
+| 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#108 - feat: Add API Routes Guide documentation](https://github.com/ESP-Corevia/corevia_mobile/pull/108)<!-- /MOBILE_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->[#106 - [FEATURE]  Ajouter la logique de prise de rendez-vous](https://github.com/ESP-Corevia/corevia_mobile/issues/106)<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->[#102 - [BUG]  fix redirection onboarding](https://github.com/ESP-Corevia/corevia_mobile/issues/102)<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
 
@@ -449,4 +449,4 @@ This repository contains organization-level GitHub configurations, workflows, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-03-06<!-- /LAST_UPDATED_FOOTER --></sub>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-03-13<!-- /LAST_UPDATED_FOOTER --></sub>
