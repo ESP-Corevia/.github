@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2026-03-13 -->
+<!-- LAST_UPDATED:2026-03-20 -->
 
 <div align="center">
 
@@ -158,7 +158,7 @@
 | Metric               | Value                                                                  |
 | -------------------- | ---------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#80 - feat(web): add ai metrics dashboard and mock admin api [KAN-25]](https://github.com/ESP-Corevia/CoreApp/pull/80)<!-- /COREAPP_LAST_OPEN_PR -->           |
+| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->0<!-- /COREAPP_LAST_OPEN_PR -->           |
 | 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#100 - feat: add appointment](https://github.com/ESP-Corevia/CoreApp/pull/100)<!-- /COREAPP_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#62 - Dependency Dashboard](https://github.com/ESP-Corevia/CoreApp/issues/62)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->[#85 - [FEATURE] Add CORS from back-office to api](https://github.com/ESP-Corevia/CoreApp/issues/85)<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
@@ -449,4 +449,4 @@ This repository contains organization-level GitHub configurations, workflows, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-03-13<!-- /LAST_UPDATED_FOOTER --></sub>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-03-20<!-- /LAST_UPDATED_FOOTER --></sub>
