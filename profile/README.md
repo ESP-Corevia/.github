@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2026-03-20 -->
+<!-- LAST_UPDATED:2026-03-27 -->
 
 <div align="center">
 
@@ -89,7 +89,7 @@
       <p>
         ⭐ Stars: <!-- COREAPP_STARS -->1<!-- /COREAPP_STARS --> ·
         👥 Contributors: <!-- COREAPP_CONTRIB -->4<!-- /COREAPP_CONTRIB --><br/>
-        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->feat: add appointment (#100) — 2026-03-12<!-- /COREAPP_LAST_COMMIT -->
+        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->Pnpm docker (#118) — 2026-03-25<!-- /COREAPP_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Active-success?style=flat-square" alt="Active" />
@@ -158,10 +158,10 @@
 | Metric               | Value                                                                  |
 | -------------------- | ---------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->0<!-- /COREAPP_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#100 - feat: add appointment](https://github.com/ESP-Corevia/CoreApp/pull/100)<!-- /COREAPP_LAST_CLOSED_PR -->       |
+| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#117 - chore: release master](https://github.com/ESP-Corevia/CoreApp/pull/117)<!-- /COREAPP_LAST_OPEN_PR -->           |
+| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#118 - Pnpm docker](https://github.com/ESP-Corevia/CoreApp/pull/118)<!-- /COREAPP_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#62 - Dependency Dashboard](https://github.com/ESP-Corevia/CoreApp/issues/62)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
-| 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->[#85 - [FEATURE] Add CORS from back-office to api](https://github.com/ESP-Corevia/CoreApp/issues/85)<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
+| 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->0<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
 
 <p>
   <a href="https://github.com/ESP-Corevia/CoreApp">
@@ -193,9 +193,9 @@
 | Metric               | Value                                                                |
 | -------------------- | -------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- MOBILE_LAST_COMMIT -->0<!-- /MOBILE_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->0<!-- /MOBILE_LAST_OPEN_PR -->           |
+| 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->[#109 - feat: add user data management and dashboard summary](https://github.com/ESP-Corevia/corevia_mobile/pull/109)<!-- /MOBILE_LAST_OPEN_PR -->           |
 | 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#108 - feat: Add API Routes Guide documentation](https://github.com/ESP-Corevia/corevia_mobile/pull/108)<!-- /MOBILE_LAST_CLOSED_PR -->       |
-| 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->[#106 - [FEATURE]  Ajouter la logique de prise de rendez-vous](https://github.com/ESP-Corevia/corevia_mobile/issues/106)<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
+| 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->[#110 - [FEATURE]  intégration de l'API pillbox avec suivi des prises du jour](https://github.com/ESP-Corevia/corevia_mobile/issues/110)<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->[#102 - [BUG]  fix redirection onboarding](https://github.com/ESP-Corevia/corevia_mobile/issues/102)<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
 
 <p>
@@ -449,4 +449,4 @@ This repository contains organization-level GitHub configurations, workflows, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-03-20<!-- /LAST_UPDATED_FOOTER --></sub>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-03-27<!-- /LAST_UPDATED_FOOTER --></sub>
