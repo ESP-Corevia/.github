@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2026-03-30 -->
+<!-- LAST_UPDATED:2026-04-03 -->
 
 <div align="center">
 
@@ -88,8 +88,8 @@
       </p>
       <p>
         ⭐ Stars: <!-- COREAPP_STARS -->1<!-- /COREAPP_STARS --> ·
-        👥 Contributors: <!-- COREAPP_CONTRIB -->4<!-- /COREAPP_CONTRIB --><br/>
-        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->chore: release master (#117) — 2026-03-30<!-- /COREAPP_LAST_COMMIT -->
+        👥 Contributors: <!-- COREAPP_CONTRIB -->5<!-- /COREAPP_CONTRIB --><br/>
+        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->feat: add AI metrics KPI page and admin API [KAN-25] (#125) — 2026-04-03<!-- /COREAPP_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Active-success?style=flat-square" alt="Active" />
@@ -158,8 +158,8 @@
 | Metric               | Value                                                                  |
 | -------------------- | ---------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->0<!-- /COREAPP_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#119 - Admin appointments](https://github.com/ESP-Corevia/CoreApp/pull/119)<!-- /COREAPP_LAST_CLOSED_PR -->       |
+| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#123 - chore: release master](https://github.com/ESP-Corevia/CoreApp/pull/123)<!-- /COREAPP_LAST_OPEN_PR -->           |
+| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#125 - feat: add AI metrics KPI page and admin API [KAN-25]](https://github.com/ESP-Corevia/CoreApp/pull/125)<!-- /COREAPP_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#62 - Dependency Dashboard](https://github.com/ESP-Corevia/CoreApp/issues/62)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->[#120 - Action Required: Add missing credentials](https://github.com/ESP-Corevia/CoreApp/issues/120)<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
 
@@ -449,4 +449,4 @@ This repository contains organization-level GitHub configurations, workflows, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-03-30<!-- /LAST_UPDATED_FOOTER --></sub>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-04-03<!-- /LAST_UPDATED_FOOTER --></sub>
