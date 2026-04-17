@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2026-04-10 -->
+<!-- LAST_UPDATED:2026-04-17 -->
 
 <div align="center">
 
@@ -89,7 +89,7 @@
       <p>
         ⭐ Stars: <!-- COREAPP_STARS -->1<!-- /COREAPP_STARS --> ·
         👥 Contributors: <!-- COREAPP_CONTRIB -->5<!-- /COREAPP_CONTRIB --><br/>
-        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->feat(tools): enhance patient tools with new appointment and medication functionalities — 2026-04-10<!-- /COREAPP_LAST_COMMIT -->
+        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->chore: release master (#130) — 2026-04-17<!-- /COREAPP_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Active-success?style=flat-square" alt="Active" />
@@ -105,8 +105,8 @@
       </p>
       <p>
         ⭐ Stars: <!-- MOBILE_STARS -->0<!-- /MOBILE_STARS --> ·
-        👥 Contributors: <!-- MOBILE_CONTRIB -->4<!-- /MOBILE_CONTRIB --><br/>
-        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->feat: integrate pillbox API with today's intakes tracking and history (#111) — 2026-04-09<!-- /MOBILE_LAST_COMMIT -->
+        👥 Contributors: <!-- MOBILE_CONTRIB -->6<!-- /MOBILE_CONTRIB --><br/>
+        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->feat: persist auth session and restore last visited route (#129) — 2026-04-17<!-- /MOBILE_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-In_Progress-yellow?style=flat-square" alt="In Progress" />
@@ -122,8 +122,8 @@
       </p>
       <p>
         ⭐ Stars: <!-- RAG_STARS -->0<!-- /RAG_STARS --> ·
-        👥 Contributors: <!-- RAG_CONTRIB -->1<!-- /RAG_CONTRIB --><br/>
-        📝 Latest Commit: <!-- RAG_LAST_COMMIT -->Merge pull request #1 from ESP-Corevia/feat/aws-deploy — 2025-12-04<!-- /RAG_LAST_COMMIT -->
+        👥 Contributors: <!-- RAG_CONTRIB -->2<!-- /RAG_CONTRIB --><br/>
+        📝 Latest Commit: <!-- RAG_LAST_COMMIT -->feat: add all namespace and updates prompts — 2026-04-16<!-- /RAG_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Stable-blue?style=flat-square" alt="Stable" />
@@ -158,8 +158,8 @@
 | Metric               | Value                                                                  |
 | -------------------- | ---------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#130 - chore: release master](https://github.com/ESP-Corevia/CoreApp/pull/130)<!-- /COREAPP_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#129 - fix(web): fix chat](https://github.com/ESP-Corevia/CoreApp/pull/129)<!-- /COREAPP_LAST_CLOSED_PR -->       |
+| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->0<!-- /COREAPP_LAST_OPEN_PR -->           |
+| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#132 - S3 docs](https://github.com/ESP-Corevia/CoreApp/pull/132)<!-- /COREAPP_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#62 - Dependency Dashboard](https://github.com/ESP-Corevia/CoreApp/issues/62)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->[#120 - Action Required: Add missing credentials](https://github.com/ESP-Corevia/CoreApp/issues/120)<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
 
@@ -193,10 +193,10 @@
 | Metric               | Value                                                                |
 | -------------------- | -------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- MOBILE_LAST_COMMIT -->0<!-- /MOBILE_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->[#112 - 110 feature intégration de lapi pillbox avec suivi des prises du jour](https://github.com/ESP-Corevia/corevia_mobile/pull/112)<!-- /MOBILE_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#111 - feat: integrate pillbox API with today's intakes tracking and history](https://github.com/ESP-Corevia/corevia_mobile/pull/111)<!-- /MOBILE_LAST_CLOSED_PR -->       |
-| 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->[#113 - [FEATURE] Add notification to pillbox](https://github.com/ESP-Corevia/corevia_mobile/issues/113)<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
-| 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->[#110 - [FEATURE]  intégration de l'API pillbox avec suivi des prises du jour](https://github.com/ESP-Corevia/corevia_mobile/issues/110)<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
+| 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->0<!-- /MOBILE_LAST_OPEN_PR -->           |
+| 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#131 - Revert "Revert "feat: add documents management feature with upload and downlo…"](https://github.com/ESP-Corevia/corevia_mobile/pull/131)<!-- /MOBILE_LAST_CLOSED_PR -->       |
+| 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->[#94 - [FEATURE]  Pouvoir ajouter des documents sur l'application](https://github.com/ESP-Corevia/corevia_mobile/issues/94)<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
+| 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->[#126 - [FEATURE]  Avoir une session persistante et revenir tjr au point ou on a fermer l'app sans avoir besoins de sereconnecter](https://github.com/ESP-Corevia/corevia_mobile/issues/126)<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
 
 <p>
   <a href="https://github.com/ESP-Corevia/corevia_mobile">
@@ -449,4 +449,4 @@ This repository contains organization-level GitHub configurations, workflows, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-04-10<!-- /LAST_UPDATED_FOOTER --></sub>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-04-17<!-- /LAST_UPDATED_FOOTER --></sub>
