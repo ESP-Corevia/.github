@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2026-04-17 -->
+<!-- LAST_UPDATED:2026-04-24 -->
 
 <div align="center">
 
@@ -89,7 +89,7 @@
       <p>
         ⭐ Stars: <!-- COREAPP_STARS -->1<!-- /COREAPP_STARS --> ·
         👥 Contributors: <!-- COREAPP_CONTRIB -->5<!-- /COREAPP_CONTRIB --><br/>
-        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->chore: release master (#130) — 2026-04-17<!-- /COREAPP_LAST_COMMIT -->
+        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->fix: update profile mutation to use trpc and set query data — 2026-04-24<!-- /COREAPP_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Active-success?style=flat-square" alt="Active" />
@@ -105,8 +105,8 @@
       </p>
       <p>
         ⭐ Stars: <!-- MOBILE_STARS -->0<!-- /MOBILE_STARS --> ·
-        👥 Contributors: <!-- MOBILE_CONTRIB -->6<!-- /MOBILE_CONTRIB --><br/>
-        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->feat: persist auth session and restore last visited route (#129) — 2026-04-17<!-- /MOBILE_LAST_COMMIT -->
+        👥 Contributors: <!-- MOBILE_CONTRIB -->7<!-- /MOBILE_CONTRIB --><br/>
+        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->feat: add French and English localization (#133) — 2026-04-24<!-- /MOBILE_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-In_Progress-yellow?style=flat-square" alt="In Progress" />
@@ -158,8 +158,8 @@
 | Metric               | Value                                                                  |
 | -------------------- | ---------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->0<!-- /COREAPP_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#132 - S3 docs](https://github.com/ESP-Corevia/CoreApp/pull/132)<!-- /COREAPP_LAST_CLOSED_PR -->       |
+| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#134 - chore: release master](https://github.com/ESP-Corevia/CoreApp/pull/134)<!-- /COREAPP_LAST_OPEN_PR -->           |
+| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#133 - coreapp](https://github.com/ESP-Corevia/CoreApp/pull/133)<!-- /COREAPP_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#62 - Dependency Dashboard](https://github.com/ESP-Corevia/CoreApp/issues/62)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->[#120 - Action Required: Add missing credentials](https://github.com/ESP-Corevia/CoreApp/issues/120)<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
 
@@ -194,7 +194,7 @@
 | -------------------- | -------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- MOBILE_LAST_COMMIT -->0<!-- /MOBILE_LAST_COMMIT -->             |
 | 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->0<!-- /MOBILE_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#131 - Revert "Revert "feat: add documents management feature with upload and downlo…"](https://github.com/ESP-Corevia/corevia_mobile/pull/131)<!-- /MOBILE_LAST_CLOSED_PR -->       |
+| 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#133 - feat: add French and English localization](https://github.com/ESP-Corevia/corevia_mobile/pull/133)<!-- /MOBILE_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->[#94 - [FEATURE]  Pouvoir ajouter des documents sur l'application](https://github.com/ESP-Corevia/corevia_mobile/issues/94)<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->[#126 - [FEATURE]  Avoir une session persistante et revenir tjr au point ou on a fermer l'app sans avoir besoins de sereconnecter](https://github.com/ESP-Corevia/corevia_mobile/issues/126)<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
 
@@ -449,4 +449,4 @@ This repository contains organization-level GitHub configurations, workflows, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-04-17<!-- /LAST_UPDATED_FOOTER --></sub>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-04-24<!-- /LAST_UPDATED_FOOTER --></sub>
