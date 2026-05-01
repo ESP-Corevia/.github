@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2026-04-24 -->
+<!-- LAST_UPDATED:2026-05-01 -->
 
 <div align="center">
 
@@ -106,7 +106,7 @@
       <p>
         ⭐ Stars: <!-- MOBILE_STARS -->0<!-- /MOBILE_STARS --> ·
         👥 Contributors: <!-- MOBILE_CONTRIB -->7<!-- /MOBILE_CONTRIB --><br/>
-        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->feat: add French and English localization (#133) — 2026-04-24<!-- /MOBILE_LAST_COMMIT -->
+        📝 Latest Commit: <!-- MOBILE_LAST_COMMIT -->fix: fix update profile and appointment — 2026-04-26<!-- /MOBILE_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-In_Progress-yellow?style=flat-square" alt="In Progress" />
@@ -194,7 +194,7 @@
 | -------------------- | -------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- MOBILE_LAST_COMMIT -->0<!-- /MOBILE_LAST_COMMIT -->             |
 | 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->0<!-- /MOBILE_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#133 - feat: add French and English localization](https://github.com/ESP-Corevia/corevia_mobile/pull/133)<!-- /MOBILE_LAST_CLOSED_PR -->       |
+| 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#134 - feat: update main](https://github.com/ESP-Corevia/corevia_mobile/pull/134)<!-- /MOBILE_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->[#94 - [FEATURE]  Pouvoir ajouter des documents sur l'application](https://github.com/ESP-Corevia/corevia_mobile/issues/94)<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->[#126 - [FEATURE]  Avoir une session persistante et revenir tjr au point ou on a fermer l'app sans avoir besoins de sereconnecter](https://github.com/ESP-Corevia/corevia_mobile/issues/126)<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
 
@@ -449,4 +449,4 @@ This repository contains organization-level GitHub configurations, workflows, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-04-24<!-- /LAST_UPDATED_FOOTER --></sub>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-05-01<!-- /LAST_UPDATED_FOOTER --></sub>
