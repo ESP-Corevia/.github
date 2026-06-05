@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2026-05-29 -->
+<!-- LAST_UPDATED:2026-06-05 -->
 
 <div align="center">
 
@@ -89,7 +89,7 @@
       <p>
         ⭐ Stars: <!-- COREAPP_STARS -->1<!-- /COREAPP_STARS --> ·
         👥 Contributors: <!-- COREAPP_CONTRIB -->5<!-- /COREAPP_CONTRIB --><br/>
-        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->fix: update profile mutation to use trpc and set query data — 2026-04-24<!-- /COREAPP_LAST_COMMIT -->
+        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->chore: release master (#134) — 2026-06-05<!-- /COREAPP_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Active-success?style=flat-square" alt="Active" />
@@ -158,8 +158,8 @@
 | Metric               | Value                                                                  |
 | -------------------- | ---------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#134 - chore: release master](https://github.com/ESP-Corevia/CoreApp/pull/134)<!-- /COREAPP_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#133 - coreapp](https://github.com/ESP-Corevia/CoreApp/pull/133)<!-- /COREAPP_LAST_CLOSED_PR -->       |
+| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#136 - chore: release master](https://github.com/ESP-Corevia/CoreApp/pull/136)<!-- /COREAPP_LAST_OPEN_PR -->           |
+| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#135 - feat(home): add QR code download modal to CTA section](https://github.com/ESP-Corevia/CoreApp/pull/135)<!-- /COREAPP_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#62 - Dependency Dashboard](https://github.com/ESP-Corevia/CoreApp/issues/62)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->[#120 - Action Required: Add missing credentials](https://github.com/ESP-Corevia/CoreApp/issues/120)<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
 
@@ -449,4 +449,4 @@ This repository contains organization-level GitHub configurations, workflows, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-05-29<!-- /LAST_UPDATED_FOOTER --></sub>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-06-05<!-- /LAST_UPDATED_FOOTER --></sub>
