@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2026-08-14 -->
+<!-- LAST_UPDATED:2026-08-21 -->
 
 <div align="center">
 
@@ -89,7 +89,7 @@
       <p>
         ⭐ Stars: <!-- COREAPP_STARS -->0<!-- /COREAPP_STARS --> ·
         👥 Contributors: <!-- COREAPP_CONTRIB -->5<!-- /COREAPP_CONTRIB --><br/>
-        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->chore: release master (#134) — 2026-06-05<!-- /COREAPP_LAST_COMMIT -->
+        📝 Latest Commit: <!-- COREAPP_LAST_COMMIT -->feat: add e2e tests (#137) — 2026-08-20<!-- /COREAPP_LAST_COMMIT -->
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Active-success?style=flat-square" alt="Active" />
@@ -159,8 +159,8 @@
 | -------------------- | ---------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
 | 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#136 - chore: release master](https://github.com/ESP-Corevia/CoreApp/pull/136)<!-- /COREAPP_LAST_OPEN_PR -->           |
-| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#135 - feat(home): add QR code download modal to CTA section](https://github.com/ESP-Corevia/CoreApp/pull/135)<!-- /COREAPP_LAST_CLOSED_PR -->       |
-| 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#62 - Dependency Dashboard](https://github.com/ESP-Corevia/CoreApp/issues/62)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
+| 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#137 - feat: add e2e tests](https://github.com/ESP-Corevia/CoreApp/pull/137)<!-- /COREAPP_LAST_CLOSED_PR -->       |
+| 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#180 - [I3] Monitoring Prometheus / Grafana](https://github.com/ESP-Corevia/CoreApp/issues/180)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->[#120 - Action Required: Add missing credentials](https://github.com/ESP-Corevia/CoreApp/issues/120)<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
 
 <p>
@@ -449,4 +449,4 @@ This repository contains organization-level GitHub configurations, workflows, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-08-14<!-- /LAST_UPDATED_FOOTER --></sub>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-08-21<!-- /LAST_UPDATED_FOOTER --></sub>
