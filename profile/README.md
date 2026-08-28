@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED:2026-08-21 -->
+<!-- LAST_UPDATED:2026-08-28 -->
 
 <div align="center">
 
@@ -158,7 +158,7 @@
 | Metric               | Value                                                                  |
 | -------------------- | ---------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- COREAPP_LAST_COMMIT -->0<!-- /COREAPP_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#136 - chore: release master](https://github.com/ESP-Corevia/CoreApp/pull/136)<!-- /COREAPP_LAST_OPEN_PR -->           |
+| 🔧 Last Open PR      | <!-- COREAPP_LAST_OPEN_PR -->[#181 - chore: prepare CoreApp for ESP902 remediation](https://github.com/ESP-Corevia/CoreApp/pull/181)<!-- /COREAPP_LAST_OPEN_PR -->           |
 | 🔧 Last Closed PR    | <!-- COREAPP_LAST_CLOSED_PR -->[#137 - feat: add e2e tests](https://github.com/ESP-Corevia/CoreApp/pull/137)<!-- /COREAPP_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- COREAPP_LAST_OPEN_ISSUE -->[#180 - [I3] Monitoring Prometheus / Grafana](https://github.com/ESP-Corevia/CoreApp/issues/180)<!-- /COREAPP_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- COREAPP_LAST_CLOSED_ISSUE -->[#120 - Action Required: Add missing credentials](https://github.com/ESP-Corevia/CoreApp/issues/120)<!-- /COREAPP_LAST_CLOSED_ISSUE --> |
@@ -193,7 +193,7 @@
 | Metric               | Value                                                                |
 | -------------------- | -------------------------------------------------------------------- |
 | 📝 Latest Commit     | <!-- MOBILE_LAST_COMMIT -->0<!-- /MOBILE_LAST_COMMIT -->             |
-| 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->0<!-- /MOBILE_LAST_OPEN_PR -->           |
+| 🔧 Last Open PR      | <!-- MOBILE_LAST_OPEN_PR -->[#135 - test: stabilize mobile validation for ESP902](https://github.com/ESP-Corevia/corevia_mobile/pull/135)<!-- /MOBILE_LAST_OPEN_PR -->           |
 | 🔧 Last Closed PR    | <!-- MOBILE_LAST_CLOSED_PR -->[#134 - feat: update main](https://github.com/ESP-Corevia/corevia_mobile/pull/134)<!-- /MOBILE_LAST_CLOSED_PR -->       |
 | 🐛 Last Open Issue   | <!-- MOBILE_LAST_OPEN_ISSUE -->[#94 - [FEATURE]  Pouvoir ajouter des documents sur l'application](https://github.com/ESP-Corevia/corevia_mobile/issues/94)<!-- /MOBILE_LAST_OPEN_ISSUE -->     |
 | 🐛 Last Closed Issue | <!-- MOBILE_LAST_CLOSED_ISSUE -->[#126 - [FEATURE]  Avoir une session persistante et revenir tjr au point ou on a fermer l'app sans avoir besoins de sereconnecter](https://github.com/ESP-Corevia/corevia_mobile/issues/126)<!-- /MOBILE_LAST_CLOSED_ISSUE --> |
@@ -449,4 +449,4 @@ This repository contains organization-level GitHub configurations, workflows, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESP-Corevia&style=for-the-badge&color=blue)
 
-<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-08-21<!-- /LAST_UPDATED_FOOTER --></sub>
+<sub>🤖 Last updated on <!-- LAST_UPDATED_FOOTER -->2026-08-28<!-- /LAST_UPDATED_FOOTER --></sub>
